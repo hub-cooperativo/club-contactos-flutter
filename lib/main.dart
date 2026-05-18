@@ -6,7 +6,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 // =========================================================================
 
 void main() async {
-  // Asegura que los bindings de Flutter estén listos antes de inicializar Supabase
+  // Asegura que los bindings de Flutter estén listos antes de inicializar vercel.json
   WidgetsFlutterBinding.ensureInitialized();
 
   // Inicializamos Supabase con la URL y la Anon Key provistas para tu proyecto
